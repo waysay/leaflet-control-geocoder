@@ -1,7 +1,7 @@
 {
-  "name": "leaflet-control-geocoder",
+  "name": "waysay-leaflet-control-geocoder",
   "version": "1.3.1",
-  "homepage": "https://github.com/perliedman/leaflet-control-geocoder",
+  "homepage": "https://github.com/waysay/leaflet-control-geocoder",
   "authors": [
     "Per Liedman <per@liedman.net>"
   ],
